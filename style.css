@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(red,orange);
+    color: azure;
+    border: 5px solid white;
+    margin:10px ;
+    font-family: cursive;
+}
+.heading{
+    width: 50%;
+    background-color: yellow;
+    font-size: 22px;
+    letter-spacing: 2px;
+    color: darkslategray;
+}
+button{
+    background-color: yellowgreen;
+}
+#camera{
+    border: 2px dotted black;
+    width: 350px;
+    height: 300px;
+}
+.objects{
+   font-size: 18px;
+}
